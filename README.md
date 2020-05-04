@@ -11,7 +11,7 @@ What things you need to install the software
 
 Ex-Sublime or Visual Studios.
 
-####ICONS
+#### ICONS
 
 They are extracted from Font Awesome.
 Link-<script src="https://kit.fontawesome.com/82614be78d.js" crossorigin="anonymous"></script>
